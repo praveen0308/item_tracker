@@ -131,7 +131,7 @@ class _MyHomePageState extends State<MyHomePage> {
             key: _listViewKey,
             gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
               crossAxisCount: constraints.maxWidth > 800 ? 3 : constraints.maxWidth > 400 ? 2 : 1,
-              childAspectRatio: constraints.maxWidth > 600 ? 3 : 2,
+              childAspectRatio: constraints.maxWidth > 800 ? 3 : constraints.maxWidth > 400 ? 1 : 3,
             ),
             itemBuilder: (context, index) {
               var item = context.watch<ItemProvider>().items[index];
