@@ -1,16 +1,12 @@
-# item_tracker
+# Item Tracker Demos
 
 Responsive flutter project
 
-## Getting Started
+## UI Demo
+https://drive.google.com/file/d/180P_BpUfskLKvb_Ka4WCZUpCJl7oKd3L/view?usp=drive_link
 
-This project is a starting point for a Flutter application.
+## Unit Testing Demo
+https://github.com/praveen0308/item_tracker/assets/64425296/6f74adf9-3f44-4dad-b282-9bd0f9688f00
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Widget Testing Demo
+https://drive.google.com/file/d/1GQ5oKc-ltHPTJqEUD5xn0TQDuK_7huVf/view?usp=drive_link
